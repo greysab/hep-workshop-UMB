@@ -11,3 +11,6 @@ Pre-requisites for participation
     * Programming experience. Any of the following: matlab, C,  R, python
     * Background in HEP
     * Laptop with WiFi connectivity
+    
+
+Lecture slides, coding notebooks and datasets will be shared in this rep. 
